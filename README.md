@@ -10,7 +10,6 @@ Ein sicherer Passwort-Generator in Java, der kryptographisch sichere Zufallszahl
   - Kleinbuchstaben (a-z)
   - Zahlen (0-9)
   - Sonderzeichen (!@#$%^&*...)
-- Benutzerfreundliche Konsolenoberfläche
 - Mindestlänge von 8 Zeichen für Sicherheit
 - Verwendet `SecureRandom` für kryptographisch sichere Zufallszahlen
 
@@ -36,7 +35,3 @@ java PasswordGenerator
 - Mindestlänge von 8 Zeichen
 - Mindestens ein Zeichentyp muss ausgewählt werden
 - Keine Speicherung der generierten Passwörter
-
-## Lizenz
-
-MIT License 
